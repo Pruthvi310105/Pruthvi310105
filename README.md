@@ -82,7 +82,7 @@
 
 | 🧩 Project | 📄 Description | 🔧 Tech Stack |
 |-----------|---------------|--------------|
-| 🎨 **[PaletteVerse](#)** | Brief description of what it does | HTML, CSS, Firebase |
+| 🎨 **[PaletteVerse](#)** | PaletteVerse is a full-featured e-commerce platform built exclusively for artists and art buyers. It supports dual roles — artists can manage their own dashboard, portfolio, and product listings, while buyers can browse a curated gallery, view individual artworks, and complete purchases through a cart and checkout flow. The platform includes a real-time chat system for direct artist–buyer communication, a leaderboard to spotlight top artists, and a task management module for artists to stay organised. Built entirely with vanilla HTML, CSS, and JavaScript, it demonstrates a strong grasp of multi-page frontend architecture without any frameworks. With dedicated profile pages, product type filtering, and a polished UI, PaletteVerse bridges the gap between creative talent and art enthusiasts in one cohesive marketplace. | HTML, CSS, Firebase, javascript|
 | 🛒 **[ReviewIQ](#)** | Built a full-stack AI pipeline that ingests messy, multilingual Indian e-commerce reviews and detects emerging complaint trends using Claude AI and Z-score statistical analysis — before they become business crises. The system extracts per-feature sentiment from Hinglish text, scores issues by business urgency, and generates team-specific action briefs with a "Do NOT Do" section, all surfaced through a 9-tab Streamlit dashboard with real-time bot detection and a one-click Decision Mode for non-technical stakeholders. | Python, MySQL, Streamlit, SQLite, FastAPI|
 
 
