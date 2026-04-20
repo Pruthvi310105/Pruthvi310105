@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-<table>
+<table align="center">
   <tr><td>👤 <b>Name</b></td><td>Pruthvi</td></tr>
   <tr><td>📍 <b>Location</b></td><td>Bengaluru, Karnataka, India 🇮🇳</td></tr>
   <tr><td>🎓 <b>Education</b></td><td>B.Tech — Computer Science & Design (3rd Year)</td></tr>
