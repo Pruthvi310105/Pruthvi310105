@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" align="center">
-
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Pruthvi+%F0%9F%91%8B;3rd+Year+Computer+Science+%26+Design+Student;UI%2FUX+%7C+Frontend+%7C+Creative+Dev;Design+Thinking+%2B+Code+%3D+%E2%9C%A8" alt="Typing SVG" /></a>
@@ -95,25 +94,37 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pruthvi310105&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi310105&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
 
 </div>
 
 ---
 
-## 🌱 Currently
-
-- 🔭 Working on **Adaptive Multi-Tenant AI Platform for Scalable Personalized Model Design and Deployment**
-- 🌱 Learning **OOPS · Java · DSA**
-- 🎨 Exploring **UI/UX Design & Frontend Design**
-- 💬 Ask me about **UI/UX, Frontend, Python**
-- 📫 Reach me at **pruthvirajug1315@gmail.com**
-- ⚡ Fun fact: I design before I code — wireframes are my rough drafts 🖊️
-
----
-
 <div align="center">
 <!-- Footer Wave -->
+
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+### 🌱 Currently
+
+- 🔭 Working on **Adaptive Multi-Tenant AI Platform for Scalable Personalized Model Design and Deployment**
+- 🌿 Learning **OOPS · Java · DSA**
+- 🎨 Exploring **UI/UX Design & Frontend Design**
+- 💬 Ask me about **UI/UX, Frontend, Python**
+- 📧 Reach me at [pruthvirajug1315@gmail.com](mailto:pruthvirajug1315@gmail.com)
+- ⚡ Fun fact: I design before I code — wireframes are my rough drafts ✏️
+
+</td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer illustration"/>
+    </td>
+  </tr>
+</table>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 **_"First, solve the problem. Then, write the code."_** ✨
