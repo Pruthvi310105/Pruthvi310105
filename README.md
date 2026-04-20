@@ -103,13 +103,14 @@
 
 <div align="center">
 <!-- Footer Wave -->
-
+  
+### 🌱 Currently
 
 <table>
   <tr>
     <td valign="top" width="60%">
 
-### 🌱 Currently
+
 
 - 🔭 Working on **Adaptive Multi-Tenant AI Platform for Scalable Personalized Model Design and Deployment**
 - 🌿 Learning **OOPS · Java · DSA**
