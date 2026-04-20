@@ -54,7 +54,7 @@
     <rect width="330" height="12" rx="6" fill="url(#g2)"/>
   </g>
 
-  <text x="34" y="202" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#c9d1d9">Python</text>
+  <text x="34" y="202" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#c9d1d9">Java</text>
   <text x="646" y="202" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" fill="#43e97b" text-anchor="end" font-weight="600">65%</text>
   <rect x="34" y="208" width="440" height="12" rx="6" fill="#161b22"/>
   <g transform="translate(34,208)" clip-path="url(#c3)">
